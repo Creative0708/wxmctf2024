@@ -358,10 +358,10 @@ IlIllIllIlIl("wxmctf{"+hashed[-32:]+"}")
 
 Deobfuscating:
 
-`ca978112ca1bbdcafac231b39a23dc4da786eff8147c4e72b9807785afee48bb` generates the prime factors of `n`
-`IlIllIllIlIl` is an alias for `print`
-`lIlllIlllIlIIllllI` finds the GCD of two numbers
-`a9448de3d95f1fd8dbf485a89f4caa532ec3002e8643fd49612fe68b4a391a4c` is the totient function (more on that later)
+- `ca978112ca1bbdcafac231b39a23dc4da786eff8147c4e72b9807785afee48bb` generates the prime factors of `n`
+- `IlIllIllIlIl` is an alias for `print`
+- `lIlllIlllIlIIllllI` finds the GCD of two numbers
+- `a9448de3d95f1fd8dbf485a89f4caa532ec3002e8643fd49612fe68b4a391a4c` is the totient function (more on that later)
 
 We get
 ```python
