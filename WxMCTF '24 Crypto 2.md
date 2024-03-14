@@ -18,6 +18,6 @@ Aha. With this, we can easily find p and q, and thus decrypt the ciphertext.
 
 Or we can go to dcode.fr and let them do it instead.
 
-![[crypto2.png]]
+![A screenshot of dcode.fr showing the ciphertext being decrypted.](/img/crypto2.png)
 
 `wxmctf{CommOn_F@u1t_0R_cOMm0N_f4ctoR?}`
